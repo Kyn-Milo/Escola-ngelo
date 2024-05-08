@@ -23,5 +23,4 @@ print(primeiroDicionario['tipo'])
 #Anatomia
 lista[indice] = Valor
 dicionario[chave] = Valor
-
-    
+""
