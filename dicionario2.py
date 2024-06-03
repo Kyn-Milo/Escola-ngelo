@@ -8,3 +8,6 @@ pais.clear()
 
 print(pais)
 
+#Método get()
+print(pais.get('nome'))
+print(pais.get("qualquer", "não existe"))
